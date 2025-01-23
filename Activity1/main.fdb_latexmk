@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1737619480.9672 "/home/arav/EE1200/Activity1/main.tex" "main.pdf" "main" 1737619481.82927 0
-  "/home/arav/EE1200/Activity1/main.tex" 1737619479.90344 3803 d519a7e8106efb251e6ee4189a19cbac ""
+["pdflatex"] 1737620831.26526 "/home/arav/EE1200/Activity1/main.tex" "main.pdf" "main" 1737620832.15992 0
+  "/home/arav/EE1200/Activity1/main.tex" 1737620831.07745 5145 12b8b8348ab4eeaa60c4c668f4cedf8c ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1736268207 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1736268207 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm" 1736268207 2228 e564491c42a4540b5ebb710a75ff306c ""
@@ -40,6 +40,7 @@
   "/usr/share/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb" 1736268207 13806 49b888f4605a088e66b9eb4fee320a6e ""
   "/usr/share/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb" 1736268207 6339 e2b78706efdc360ee6aec9b6e20211a7 ""
   "/usr/share/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb" 1736268207 11099 83316203930a07cc1ec0d29d0f0dd35c ""
+  "/usr/share/texmf-dist/fonts/type1/public/txfonts/txex.pfb" 1736268207 17531 c91f2d6943f51d7c46d6b7b9cedd50ba ""
   "/usr/share/texmf-dist/fonts/type1/public/txfonts/txtt.pfb" 1736268207 18134 15936cd318391c2532d84d9a2863d73e ""
   "/usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1736268207 46026 6dab18b61c907687b520c72847215a68 ""
   "/usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb" 1736268207 45458 a3faba884469519614ca56ba5f6b1de1 ""
@@ -313,10 +314,15 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1736330921 7113022 a1028fdac59a248cadd54a57aeb04c38 ""
   "gvv-book.sty" 1737521605.57022 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1737521605.58022 4394 571e08b048e47d91d76be47712c5c5ed ""
-  "main.aux" 1737619481.7401 1087 d9d73072f21f69d15fa6282d74232c19 "pdflatex"
-  "main.out" 1737619481.7401 896 8f692efe0876a8f17d2e06f85196cc8b "pdflatex"
-  "main.tex" 1737619479.90344 3803 d519a7e8106efb251e6ee4189a19cbac ""
+  "main.aux" 1737620832.06736 2173 6909bc904b50ec85e961e2b0b5f333f9 "pdflatex"
+  "main.out" 1737620832.06736 1190 a1fb7c92ec4ceba6a682a1a8fc643074 "pdflatex"
+  "main.tex" 1737620831.07745 5145 12b8b8348ab4eeaa60c4c668f4cedf8c ""
+  "pics/WhatsApp Image 2025-01-15 at 23.32.36(1).jpeg" 1737620290.18834 94685 296d06ee90c80dab4da9f81f037ca8a4 ""
+  "pics/WhatsApp Image 2025-01-15 at 23.32.36.jpeg" 1737620286.77564 87641 4a9a9f5dd3d80777ca8a5d16f8812846 ""
+  "pics/WhatsApp Image 2025-01-23 at 13.22.01(1).jpeg" 1737618780.48845 1144772 3fbfab266e68e07a61542f07c65baa82 ""
+  "pics/WhatsApp Image 2025-01-23 at 13.22.01.jpeg" 1737618768.19844 664647 4c24bd1574912f1107d6a22b08742d47 ""
   "pics/WhatsApp Image 2025-01-23 at 13.22.08.jpeg" 1737618826.69182 722518 db3a3dc0e61ac46995bb88b6c04c3102 ""
+  "pics/WhatsApp Image 2025-01-23 at 13.22.10.jpeg" 1737618814.58515 766494 9776f1fb1b549e1f3bbcf8e598eb0a28 ""
   (generated)
   "main.aux"
   "main.log"

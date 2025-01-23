@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.1.8)  23 JAN 2025 13:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2025.1.8)  23 JAN 2025 13:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1557,35 +1557,71 @@ File: ts1txr.fd 2000/12/15 v3.1
 LaTeX Font Info:    Trying to load font information for OT1+txtt on input line 95.
  (/usr/share/texmf-dist/tex/latex/txfonts/ot1txtt.fd
 File: ot1txtt.fd 2000/12/15 v3.1
-)
-<pics/WhatsApp Image 2025-01-23 at 13.22.08.jpeg, id=63, 4111.36pt x 3083.52pt>
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}
+
+]
+<pics/WhatsApp Image 2025-01-15 at 23.32.36.jpeg, id=100, 1284.8pt x 722.7pt>
+File: pics/WhatsApp Image 2025-01-15 at 23.32.36.jpeg Graphic file (type jpg)
+<use pics/WhatsApp Image 2025-01-15 at 23.32.36.jpeg>
+Package pdftex.def Info: pics/WhatsApp Image 2025-01-15 at 23.32.36.jpeg  used on input line 108.
+(pdftex.def)             Requested size: 254.9356pt x 143.39058pt.
+<pics/WhatsApp Image 2025-01-15 at 23.32.36(1).jpeg, id=101, 1284.8pt x 722.7pt>
+File: pics/WhatsApp Image 2025-01-15 at 23.32.36(1).jpeg Graphic file (type jpg)
+<use pics/WhatsApp Image 2025-01-15 at 23.32.36(1).jpeg>
+Package pdftex.def Info: pics/WhatsApp Image 2025-01-15 at 23.32.36(1).jpeg  used on input line 113.
+(pdftex.def)             Requested size: 254.9356pt x 143.39058pt.
+<pics/WhatsApp Image 2025-01-23 at 13.22.01(1).jpeg, id=102, 4111.36pt x 3083.52pt>
+File: pics/WhatsApp Image 2025-01-23 at 13.22.01(1).jpeg Graphic file (type jpg)
+<use pics/WhatsApp Image 2025-01-23 at 13.22.01(1).jpeg>
+Package pdftex.def Info: pics/WhatsApp Image 2025-01-23 at 13.22.01(1).jpeg  used on input line 121.
+(pdftex.def)             Requested size: 254.9356pt x 191.16685pt.
+<pics/WhatsApp Image 2025-01-23 at 13.22.01.jpeg, id=103, 4111.36pt x 3083.52pt>
+File: pics/WhatsApp Image 2025-01-23 at 13.22.01.jpeg Graphic file (type jpg)
+<use pics/WhatsApp Image 2025-01-23 at 13.22.01.jpeg>
+Package pdftex.def Info: pics/WhatsApp Image 2025-01-23 at 13.22.01.jpeg  used on input line 126.
+(pdftex.def)             Requested size: 254.9356pt x 191.16685pt.
+
+Underfull \vbox (badness 1325) has occurred while \output is active []
+
+ [2 <./pics/WhatsApp Image 2025-01-15 at 23.32.36.jpeg> <./pics/WhatsApp Image 2025-01-15 at 23.32.36(1).jpeg>]
+<pics/WhatsApp Image 2025-01-23 at 13.22.08.jpeg, id=113, 4111.36pt x 3083.52pt>
 File: pics/WhatsApp Image 2025-01-23 at 13.22.08.jpeg Graphic file (type jpg)
 <use pics/WhatsApp Image 2025-01-23 at 13.22.08.jpeg>
-Package pdftex.def Info: pics/WhatsApp Image 2025-01-23 at 13.22.08.jpeg  used on input line 103.
-(pdftex.def)             Requested size: 364.1953pt x 273.12912pt.
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}
+Package pdftex.def Info: pics/WhatsApp Image 2025-01-23 at 13.22.08.jpeg  used on input line 134.
+(pdftex.def)             Requested size: 254.9356pt x 191.16685pt.
 
-] [2 <./pics/WhatsApp Image 2025-01-23 at 13.22.08.jpeg>] (./main.aux)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pics/WhatsApp Image 2025-01-23 at 13.22.10.jpeg, id=114, 4111.36pt x 3083.52pt>
+File: pics/WhatsApp Image 2025-01-23 at 13.22.10.jpeg Graphic file (type jpg)
+<use pics/WhatsApp Image 2025-01-23 at 13.22.10.jpeg>
+Package pdftex.def Info: pics/WhatsApp Image 2025-01-23 at 13.22.10.jpeg  used on input line 140.
+(pdftex.def)             Requested size: 254.9356pt x 191.16685pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./pics/WhatsApp Image 2025-01-23 at 13.22.01(1).jpeg> <./pics/WhatsApp Image 2025-01-23 at 13.22.01.jpeg>] [4 <./pics/WhatsApp Image 2025-01-23 at 13.22.08.jpeg> <./pics/WhatsApp Image 2025-01-23 at 13.22.10.jpeg>] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8F692EFE0876A8F17D2E06F85196CC8B;896.
+(rerunfilecheck)             Checksum: A1FB7C92EC4CEBA6A682A1A8FC643074;1190.
  ) 
 Here is how much of TeX's memory you used:
- 53266 strings out of 476076
- 1257541 string characters out of 5793776
- 1942187 words of memory out of 5000000
- 74529 multiletter control sequences out of 15000+600000
+ 53320 strings out of 476076
+ 1259756 string characters out of 5793776
+ 1943187 words of memory out of 5000000
+ 74572 multiletter control sequences out of 15000+600000
  622125 words of font info for 169 fonts, out of 8000000 for 9000
  17 hyphenation exceptions out of 8191
- 109i,8n,109p,1222b,926s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (2 pages, 768832 bytes).
+ 109i,9n,109p,1222b,1053s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (4 pages, 3532573 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
- 30 named destinations out of 1000 (max. 500000)
- 178 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 171 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
