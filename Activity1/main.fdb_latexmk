@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1737618836.34857 "/home/arav/EE1200/Activity1/main.tex" "main.pdf" "main" 1737618837.22624 0
-  "/home/arav/EE1200/Activity1/main.tex" 1737618836.17182 3670 a58af541876a65b8612849520599a9b4 ""
+["pdflatex"] 1737619480.9672 "/home/arav/EE1200/Activity1/main.tex" "main.pdf" "main" 1737619481.82927 0
+  "/home/arav/EE1200/Activity1/main.tex" 1737619479.90344 3803 d519a7e8106efb251e6ee4189a19cbac ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1736268207 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1736268207 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm" 1736268207 2228 e564491c42a4540b5ebb710a75ff306c ""
@@ -313,9 +313,10 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1736330921 7113022 a1028fdac59a248cadd54a57aeb04c38 ""
   "gvv-book.sty" 1737521605.57022 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1737521605.58022 4394 571e08b048e47d91d76be47712c5c5ed ""
-  "main.aux" 1737618837.13848 1087 d9d73072f21f69d15fa6282d74232c19 "pdflatex"
-  "main.out" 1737618837.13848 896 8f692efe0876a8f17d2e06f85196cc8b "pdflatex"
-  "main.tex" 1737618836.17182 3670 a58af541876a65b8612849520599a9b4 ""
+  "main.aux" 1737619481.7401 1087 d9d73072f21f69d15fa6282d74232c19 "pdflatex"
+  "main.out" 1737619481.7401 896 8f692efe0876a8f17d2e06f85196cc8b "pdflatex"
+  "main.tex" 1737619479.90344 3803 d519a7e8106efb251e6ee4189a19cbac ""
+  "pics/WhatsApp Image 2025-01-23 at 13.22.08.jpeg" 1737618826.69182 722518 db3a3dc0e61ac46995bb88b6c04c3102 ""
   (generated)
   "main.aux"
   "main.log"
