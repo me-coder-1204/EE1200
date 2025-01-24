@@ -3,15 +3,15 @@ import numpy as np
 
 t = np.linspace(0, 10*np.pi,10000)
 
-f1 = 3
-f2 = 1
+f1 = 1
+f2 = 3
 A = 5
 B = 5
 deg = 0
 ph = deg*np.pi/180
 
-x = A*np.sin((2*np.pi/f1)*t + ph)
-y = B*(np.sin((2*np.pi/f2)*t))
+x = A*np.sin((2*np.pi*f1)*t + ph)
+y = B*(np.sin((2*np.pi*f2)*t))
 
 plt.grid()
 plt.axis("equal")
