@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1737620831.26526 "/home/arav/EE1200/Activity1/main.tex" "main.pdf" "main" 1737620832.15992 0
-  "/home/arav/EE1200/Activity1/main.tex" 1737620831.07745 5145 12b8b8348ab4eeaa60c4c668f4cedf8c ""
+["pdflatex"] 1737622468.82174 "/home/arav/EE1200/Activity1/main.tex" "main.pdf" "main" 1737622469.88459 0
+  "/home/arav/EE1200/Activity1/main.tex" 1737622467.63857 5742 bc90d878dc147f8579ecab5813e83cad ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1736268207 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1736268207 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm" 1736268207 2228 e564491c42a4540b5ebb710a75ff306c ""
@@ -312,15 +312,18 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1736268207 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1736330937.98568 325518 3dff2bac5bde75cd7e600320ce8a00d6 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1736330921 7113022 a1028fdac59a248cadd54a57aeb04c38 ""
+  "figs/fig1.png" 1737552500.41004 11887 aa59b2175e55ea683f624ee7417d016e ""
+  "figs/fig2.png" 1737552577.35762 15176 827cff0d8af079e91172bc0feae83c10 ""
   "gvv-book.sty" 1737521605.57022 2552 b3fa9856c041accf435cbb23e23c6736 ""
   "gvv.sty" 1737521605.58022 4394 571e08b048e47d91d76be47712c5c5ed ""
-  "main.aux" 1737620832.06736 2173 6909bc904b50ec85e961e2b0b5f333f9 "pdflatex"
-  "main.out" 1737620832.06736 1190 a1fb7c92ec4ceba6a682a1a8fc643074 "pdflatex"
-  "main.tex" 1737620831.07745 5145 12b8b8348ab4eeaa60c4c668f4cedf8c ""
+  "main.aux" 1737622469.77538 2443 d481c1e445e3f0eebb4fbea2731910ab "pdflatex"
+  "main.out" 1737622469.77538 1190 a1fb7c92ec4ceba6a682a1a8fc643074 "pdflatex"
+  "main.tex" 1737622467.63857 5742 bc90d878dc147f8579ecab5813e83cad ""
   "pics/WhatsApp Image 2025-01-15 at 23.32.36(1).jpeg" 1737620290.18834 94685 296d06ee90c80dab4da9f81f037ca8a4 ""
   "pics/WhatsApp Image 2025-01-15 at 23.32.36.jpeg" 1737620286.77564 87641 4a9a9f5dd3d80777ca8a5d16f8812846 ""
   "pics/WhatsApp Image 2025-01-23 at 13.22.01(1).jpeg" 1737618780.48845 1144772 3fbfab266e68e07a61542f07c65baa82 ""
   "pics/WhatsApp Image 2025-01-23 at 13.22.01.jpeg" 1737618768.19844 664647 4c24bd1574912f1107d6a22b08742d47 ""
+  "pics/WhatsApp Image 2025-01-23 at 13.22.02(1).jpeg" 1737618791.0118 832428 34266afa01c5ef0e56394f4ded311422 ""
   "pics/WhatsApp Image 2025-01-23 at 13.22.08.jpeg" 1737618826.69182 722518 db3a3dc0e61ac46995bb88b6c04c3102 ""
   "pics/WhatsApp Image 2025-01-23 at 13.22.10.jpeg" 1737618814.58515 766494 9776f1fb1b549e1f3bbcf8e598eb0a28 ""
   (generated)
