@@ -56,5 +56,5 @@ plt.plot(a[:,0],a[:,1], label = 'k')
 
 print(T, R*C, Vu)
 plt.grid()
-plt.savefig("./fig5.png")
+plt.savefig("./figs/fig5.png")
 plt.show()
