@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1739214741.80387 "/home/arav/EE1200/Activity3/main.tex" "main.pdf" "main" 1739214742.87821 0
-  "/home/arav/EE1200/Activity3/main.tex" 1739214740.55744 7085 0becf2279b53afb8e66e0ade400dbd90 ""
+["pdflatex"] 1739252896.2019 "/home/arav/EE1200/Activity3/main.tex" "main.pdf" "main" 1739252897.39821 0
+  "/home/arav/EE1200/Activity3/main.tex" 1739252895.94713 7083 8ddf1fc9f51804c38180a44b30fe6dd6 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1736268207 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1736268207 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm" 1736268207 2228 e564491c42a4540b5ebb710a75ff306c ""
@@ -319,9 +319,9 @@
   "figs/Pfig3.png" 1739214344.467 17607 2f4940a093232ce4e29d1d7540fa55b6 ""
   "gvv-book.sty" 1738730434.02535 2554 e65aa5cecf0eb4d11d3872e8db363152 ""
   "gvv.sty" 1738730434.0162 4394 571e08b048e47d91d76be47712c5c5ed ""
-  "main.aux" 1739214742.78943 2388 d770a59ae1379ee1203b1d9e28210a9d "pdflatex"
-  "main.out" 1739214742.78943 534 fcf6aa517f7b90958d8c97e5dc118d43 "pdflatex"
-  "main.tex" 1739214740.55744 7085 0becf2279b53afb8e66e0ade400dbd90 ""
+  "main.aux" 1739252897.29814 2388 d770a59ae1379ee1203b1d9e28210a9d "pdflatex"
+  "main.out" 1739252897.29814 534 fcf6aa517f7b90958d8c97e5dc118d43 "pdflatex"
+  "main.tex" 1739252895.94713 7083 8ddf1fc9f51804c38180a44b30fe6dd6 ""
   "tables/tab1.tex" 1739206499.58233 512 fc6695194ab02dc6a13f3acf94e028fd ""
   "tables/tab2.tex" 1739206822.7227 425 76be678bf12d67021b61e2ffd5235bde ""
   "tables/tab3.tex" 1739212668.14903 330 79669dc03682bb4a77e5f80db6897226 ""
